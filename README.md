@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @sunkusaarthak
 - 👀 I’m interested in Android Application Development
-- 🌱 I’m currently learning Android Application Development
+- 🌱 I’m currently learning Android Application Development and Data structure and Algorithms
 - 📫 reach me via sunkusaarthak@gmail.com
 
 <!---
