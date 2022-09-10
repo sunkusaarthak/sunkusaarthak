@@ -1,5 +1,12 @@
-# 💫 About Me:
-🔭 I’m currently working on Data Structures and Algorithms<br><br>🌱 I’m currently learning Data Structures, Android Application Development<br><br>👨‍💻 All of my projects are available at https://github.com/sunkusaarthak<br><br>📫 How to reach me sunkusaarthak@gmail.com
+
+<h1 align="center">
+Hi There!
+<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
+</h1>
+I'm Sunku, a tech enthusiast who loves to learn, teach, and collaborate. I'm currently working on Android app development and learning data structures, currently pursuing a Bachelor's Degree in Computer Science.
+
+# 📫 Contact Me:
+<br>📫 How to reach me sunkusaarthak@gmail.com<br>👨‍💻 All of my projects are available at https://github.com/sunkusaarthak<br>
 
 
 ## 🌐 Socials:
