@@ -2,7 +2,8 @@
 <h1 align="center">
 Hi There!
 <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"> <br><br>
-<img src="https://user-images.githubusercontent.com/59611699/194285268-dc97cac9-83c0-4204-acdc-c9d7cef2ab3e.jpg"><br><br>
+
+<img src="https://user-images.githubusercontent.com/59611699/194289617-0318ef1b-ca0b-41aa-be20-c245c8cb36bb.png"><br><br>
  🤘 About Me: </h1>
 </h1>
 <br>
