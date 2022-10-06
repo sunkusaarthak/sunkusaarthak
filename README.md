@@ -1,7 +1,9 @@
 
 <h1 align="center">
 Hi There!
-<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
+<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"> <br><br>
+<img src="https://user-images.githubusercontent.com/59611699/194285268-dc97cac9-83c0-4204-acdc-c9d7cef2ab3e.jpg">
+
 </h1>
 I'm Sunku, a tech enthusiast who loves to learn, teach, and collaborate. I'm currently working on Android app development and learning data structures, currently pursuing a Bachelor's Degree in Computer Science.
 
