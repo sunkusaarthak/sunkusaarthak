@@ -27,4 +27,4 @@ I'm Sunku, a tech enthusiast who loves to learn, teach, and collaborate. I'm cur
 ![](https://github-profile-trophy.vercel.app/?username=sunkusaarthak&theme=oldie&no-frame=true&no-bg=false&margin-w=4)
 
 ---
-[![](https://visitcount.itsvg.in/api?id=sunkusaarthak&icon=8&color=1)](https://visitcount.itsvg.in)
+[![](https://visitcount.itsvg.in/api?id=sunkusaarthak&icon=8&color=1)](https://visitcount.itsvg.in).
