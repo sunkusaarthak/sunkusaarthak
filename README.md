@@ -3,7 +3,6 @@
 <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
 Hi There!
  <br><br>
-<img src="https://user-images.githubusercontent.com/59611699/194290481-784b4afb-085c-44ae-aa56-e03d6dcbd281.png"><br><br>
  🤘 About Me: </h1>
 </h1>
 <br>
